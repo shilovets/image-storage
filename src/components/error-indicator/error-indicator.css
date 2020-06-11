@@ -1,0 +1,7 @@
+.error-indicator {
+    margin-top: 100px;
+}
+
+.error-indicator h1, .error-indicator h2, .error-indicator h3 {
+    text-shadow: 1px 1px 2px black, 0 0 1em #0bff00, 0 0 0.2em #0BFF00;
+}
