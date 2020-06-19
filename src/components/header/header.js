@@ -7,7 +7,7 @@ const Header = () => {
     return (
         <header className='header d-flex align-items-center'>
             <h1>
-                <Link to='/'>IMAGE-STORAGE</Link>
+                <Link to='/'>IMAGES-STORAGE</Link>
                 <span>test</span>
             </h1>
             <ul className='d-flex align-items-center'>
